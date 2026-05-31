@@ -2,7 +2,7 @@
 <b> A wired 56 key split keyboard powered by RP2040 microcontrollers.
 </b>
 
-<img src="pics/Assembly.png" style="width:60%; height:auto;">
+<img src="pics/Assembly.png" style="width:100%; height:auto;">
 
 
 After creating the GOATPad i decided to take up a slightly more challenging twist to that project. This time a full split keyboard, which taught me how to panelize PCBs and make two MCU's communicate together.
