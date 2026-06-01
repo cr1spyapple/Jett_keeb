@@ -2232,16 +2232,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 53.34) (xy 76.2 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2907a8a3-b5a8-44f5-89ec-9b3ce3dbd4ba")
-	)
-	(wire
-		(pts
 			(xy 22.86 81.28) (xy 30.48 81.28)
 		)
 		(stroke
@@ -2319,16 +2309,6 @@
 			(type default)
 		)
 		(uuid "38f6e3fe-2dd8-47da-9ac8-8c4774e25bb6")
-	)
-	(wire
-		(pts
-			(xy 22.86 76.2) (xy 30.48 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b092349-7bb6-4b34-bd81-8913e99bf469")
 	)
 	(wire
 		(pts
@@ -2822,6 +2802,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 54.61) (xy 76.2 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0b87a0c-1a78-43a4-bafe-26f61eafe864")
+	)
+	(wire
+		(pts
 			(xy 242.57 40.64) (xy 242.57 63.5)
 		)
 		(stroke
@@ -2859,6 +2849,26 @@
 			(type default)
 		)
 		(uuid "ccad6c4a-4a9d-4601-aea2-1d98a4d29d53")
+	)
+	(wire
+		(pts
+			(xy 60.96 54.61) (xy 76.2 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd11f3cc-f223-4fb5-bcc2-a44a0e77628c")
+	)
+	(wire
+		(pts
+			(xy 22.86 76.2) (xy 30.48 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd7bd9ef-a15c-4100-981c-04d11dfcf07f")
 	)
 	(wire
 		(pts
@@ -2912,13 +2922,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 45.72) (xy 60.96 53.34)
+			(xy 60.96 45.72) (xy 60.96 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dedf83a4-afbc-44d4-a972-f0eb924b7832")
+		(uuid "e33c38e2-076d-449e-a567-f7a151426358")
 	)
 	(wire
 		(pts
@@ -2949,16 +2959,6 @@
 			(type default)
 		)
 		(uuid "e8fb9401-55bb-4352-915c-36dde5ca6b9e")
-	)
-	(wire
-		(pts
-			(xy 60.96 53.34) (xy 76.2 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e95742ee-6bea-4a37-a8f5-c8a3e2b34d34")
 	)
 	(wire
 		(pts
@@ -3190,16 +3190,6 @@
 		)
 		(uuid "6d28be4a-54d6-4132-a18a-621da867d428")
 	)
-	(label "COL_6"
-		(at 22.86 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "96f6de0b-58d1-4dd9-b898-2649e6782f18")
-	)
 	(label "COL_2"
 		(at 22.86 86.36 0)
 		(effects
@@ -3279,6 +3269,16 @@
 			(justify right bottom)
 		)
 		(uuid "d5a8d002-9267-4a1d-95a1-c2131456af65")
+	)
+	(label "COL_6"
+		(at 22.86 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d68c5111-4988-4964-8325-f397db57cf84")
 	)
 	(label "COL_4"
 		(at 22.86 81.28 0)
