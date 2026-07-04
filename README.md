@@ -7,6 +7,7 @@
 
 Final build:
 <img src="pics/IMG_1044.jpeg" style="width:100%; height:auto;">
+<img src="pics/IMG_1045.jpeg" style="width:100%; height:auto;">
 
 After creating the GOATPad i decided to take up a slightly more challenging twist to that project. This time a full split keyboard, which taught me how to panelize PCBs and make two MCU's communicate together.
 
